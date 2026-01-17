@@ -1,0 +1,52 @@
+{
+  "blogs": [
+    {
+      "id": 1,
+      "title": "Getting Started with React and TypeScript",
+      "category": [
+        "React",
+        "TypeScript",
+        "Frontend"
+      ],
+      "description": "A comprehensive guide to building modern web applications with React and TypeScript.",
+      "date": "2024-01-15",
+      "coverImage": "https://images.unsplash.com/photo-1633356122544-f134324a6cee?w=800&h=400&fit=crop",
+      "content": "React and TypeScript together provide a powerful combination for building robust, scalable web applications. In this article, we'll explore the fundamentals of setting up a React project with TypeScript, including type definitions, component patterns, and best practices for state management.\n\nTypeScript adds static typing to JavaScript, which helps catch errors at compile time rather than runtime. When combined with React, you get better developer experience with IntelliSense, refactoring support, and improved code maintainability.\n\nWe'll cover topics such as:\n- Setting up a new React TypeScript project\n- Understanding TypeScript interfaces for props\n- State management with hooks\n- Event handling with proper typing\n- Best practices for component composition\n\nBy the end of this guide, you'll have a solid foundation for building type-safe React applications that are easier to maintain and less prone to runtime errors.",
+      "author": "Sarah Johnson",
+      "likes": 42,
+      "shares": 15
+    },
+    {
+      "id": 2,
+      "title": "Modern CSS Techniques for 2024",
+      "category": [
+        "CSS",
+        "Web Development",
+        "Design"
+      ],
+      "description": "Explore the latest CSS features and techniques that are shaping modern web design.",
+      "date": "2024-01-20",
+      "coverImage": "https://images.unsplash.com/photo-1461749280684-dccba630e2f6?w=800&h=400&fit=crop",
+      "content": "CSS has evolved significantly over the past few years, introducing powerful new features that allow developers to create more sophisticated and performant user interfaces. This article explores the cutting-edge CSS techniques that are revolutionizing web development in 2024.\n\nFrom container queries to cascade layers, modern CSS provides developers with unprecedented control over layout and styling. We'll dive deep into practical applications of these features and how they can improve your development workflow.\n\nKey topics we'll cover:\n- Container queries and responsive design\n- Cascade layers for better CSS organization\n- CSS custom properties and dynamic theming\n- Modern layout techniques with grid and flexbox\n- Performance optimizations with CSS\n- Future CSS features to watch\n\nThese techniques will help you write more maintainable, scalable, and performant CSS code while keeping up with the latest industry standards.",
+      "author": "Mike Chen",
+      "likes": 28,
+      "shares": 8
+    },
+    {
+      "id": 3,
+      "title": "Building APIs with Node.js and Express",
+      "category": [
+        "Node.js",
+        "Backend",
+        "API"
+      ],
+      "description": "Learn how to build scalable and secure REST APIs using Node.js and Express framework.",
+      "date": "2024-01-25",
+      "coverImage": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=800&h=400&fit=crop",
+      "content": "Building robust APIs is a crucial skill for modern web developers. Node.js and Express provide an excellent foundation for creating scalable, high-performance backend services. This comprehensive guide will walk you through the process of building production-ready APIs.\n\nWe'll start with the basics of setting up an Express server and gradually move to advanced topics like authentication, validation, and performance optimization. You'll learn how to structure your API for maintainability and scalability.\n\nTopics covered include:\n- Setting up Express with TypeScript\n- Routing and middleware patterns\n- Request validation and sanitization\n- Authentication and authorization\n- Database integration\n- Error handling and logging\n- API documentation\n- Testing strategies\n- Deployment and monitoring\n\nBy following this guide, you'll gain the knowledge and skills needed to build professional-grade APIs that can handle real-world traffic and scale effectively.",
+      "author": "Alex Rodriguez",
+      "likes": 35,
+      "shares": 12
+    }
+  ]
+}
